@@ -1,73 +1,57 @@
-# Welcome to your Lovable project
+🎄😺 Meowry Christmas
 
-## Project info
+Meowry Christmas is a fun, Christmas-themed mini game where Santa is tired, kittens are picky, and gifting goes hilariously wrong.
+The goal isn’t to win — it’s to laugh, fail, and enjoy the chaos.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+🎮 What is the Game?
 
-## How can I edit this code?
+Gifts are hidden in a playful Christmas environment
 
-There are several ways of editing your application.
+Players must find gifts and match them to the right kitten
 
-**Use Lovable**
+Each kitten has a strong personality and reacts with funny acceptance or refusal reasons
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Wrong choices trigger sass, animations, and chaos instead of punishment
 
-Changes made via Lovable will be committed automatically to this repo.
+✨ Why This Project?
 
-**Use your preferred IDE**
+To build something fun, weird, and memorable, not serious or stressful
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+To show that games don’t need complexity — they need personality
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+To celebrate creativity, vibe coding, and joyful failure
 
-Follow these steps:
+🐾 Key Features
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Expressive kittens with meme-level reactions
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Santa-led intro & guidance
 
-# Step 3: Install the necessary dependencies.
-npm i
+Funny accept/reject animations + sound effects
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Christmas-themed UI & cozy vibes
 
-**Edit a file directly in GitHub**
+Performance-based Cat Breed Result Screen (shareable!)
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+🛠 Tech Stack
 
-**Use GitHub Codespaces**
+Frontend: React
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Styling: CSS / Tailwind
 
-## What technologies are used for this project?
+Animations: Framer Motion
 
-This project is built with:
+Sounds: HTML5 Audio
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Assets & Logic: AI-assisted (Lovable, Gemini)
 
-## How can I deploy this project?
+🚀 How to Run
+npm install
+npm start
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+🎁 Final Note
 
-## Can I connect a custom domain to my Lovable project?
+Meowry Christmas isn’t about being perfect —
+it’s about gifting wrong, getting judged by kittens, and loving every second of it.
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Fail. Laugh. Meowry Christmas. 🎄😺
